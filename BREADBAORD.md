@@ -2,7 +2,7 @@
 
 I built the prototype using 3 breadboards. This gave me plenty of space. With a bit of work you could reduce it to 2 boards though, and although I called this the prototype I used it for quite a while. Which was mostly fine. I had to protect from water spalshes and it was always intertesting when something stopped working due to a lose connection.
 
-<img src="imgs/dropControllerV3_breadboard_01_1200.jpg" alt="dropControllerV3 on a breadboard" width="50%">
+<img src="imgs/dropControllerV3_breadboard_01_1200.jpg" alt="dropControllerV3 on a breadboard" width="100%">
 
 Using breadboards is fairly straight forward as long as you remember how they work and what is connected to what. Stick in a component; connect to another component with some wire.
 
