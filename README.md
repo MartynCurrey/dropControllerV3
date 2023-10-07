@@ -16,6 +16,7 @@ dropController is the ultimate water drop photography system. Developed by water
 [Breadboard](BREADBOARD.md) <br>
 [Proto/perf board](PERFBOARD.md) <br>
 [PCB](PCBmd) <br>
+[Firmware](FIRMWARE) <br>
 [Case](CASE.md) <br>
 [Windows App](WINDOWS-APP.md) <br>
 [Android App](ANDROID-APP.md) <br>
