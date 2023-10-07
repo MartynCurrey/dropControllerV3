@@ -9,5 +9,9 @@ The circuit allows the use of 12v and 24v power input. This means the same circu
 
 <img src="imgs/dropControllerV3_Circuit_4.0_2400.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
 
+[KiCAD circuit diagram (PDF)](assets/dropControllerV3_CircuitDiagram_KiCAD.pdf)
 <br>
 <br>
+
+
+
