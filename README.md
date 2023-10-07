@@ -22,6 +22,9 @@ dropController is the ultimate water drop photography system. Developed by water
 [Android App](ANDROID-APP.md) <br>
 [User Manual](USER-MANUAL.md) <br>
 
+Basic Set up
+First drops
+
 <br>
 <br>
 <br>
