@@ -34,6 +34,9 @@ dropControllerV3 features:
 <br>
 <br>
 
+If you want more than this take a look at dropControllerV4 (www.dropcontroller.com)
+
+
 ## Apps
 dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows app (via USB). Sorry, no IOS version. apple uses please have a look at [dropControllerV4](www.dropcontroller.com)
 
