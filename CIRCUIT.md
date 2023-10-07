@@ -72,27 +72,21 @@ With an ambient temperature of about 27°C and using a 24V power source:
 <br>
 
 ## Valve Control & Mosfets
-dropControllerV3 is designed to be used with eithger 12V or 24V valves. 12V and 24V are too high to connect directly to an Arduino and mosfets are used as a middle man.
+dropControllerV3 is designed to be used with either 12V or 24V valves. 12V and 24V are too high to connect directly to an Arduino and mosfets are used as a middle man.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_mosfetAsASwitch.jpg" alt="dropControllerV3_Circuits Diagram_mosfet As A Switch" >
 The solenoid valves recieve power from VCC (12v OR 24v) and are switched on and off by a mosfet which in turn is controlled from the Arduino. In this way the mosfets are used as digital switches turning the valve on and off. I use IRL540N and IRLZ44N mosfets but there are many alternatives. The mosfet needs to be logic level with a low RDSon at 5V/4.5V and more than able to handle the voltage used to drive the valves (drain-to-Source Breakdown Voltage). Always add a bit more, so if you are using 24V power supply use a mosfet able to handle 30+ volts (this would be my very minimum for 24V). The IRL540n has a drain-to-Source Breakdown Voltage of 100v so plenty of
 <br>
 <br>
-
 <img src="imgs/dropControllerV3_CircuitDiagram_mosfetAsASwitch02.jpg" alt="dropControllerV3_Circuit Diagram_mosfet As A Switch" >
 You can think of the mosfet as a digital switch (very simplified overview), when there is a voltage on the Gate pin, current is allowed to flow between the Source and the Drain pins.
-
 <br>
 <br>
-
 <img src="imgs/dropControllerV3_CircuitDiagram_mosfetAsASwitch03.jpg" alt="dropControllerV3_Circuit Diagram_mosfet As A Switch" >
 Mosfets are voltage driven rather than current driven devices and you may get away without the gate resistor. However, when a voltage is first applied to the gate pin, the mosfet can act like a capacitor and for a very short time draw quite a lot of current. The 200ohm resistor slows this down a bit and keeps the Arduino from destroying itself. A 100ohm resistor can also be used.
-
 <br>
 <br>
-
 The 10K resistor pulls the Gate pin to ground when there is no signal from the Arduino and should be included. For one, it prevents the pin floating and causing ghost activity and for two, it stops the mosfet from going in to an undefined state which is basically a resistor and has the potential to burn up.
-
 <br>
 <br>
 
@@ -101,11 +95,9 @@ To isolate the camera and flash guns from the main dropController circuit 4N35 o
 
 <img src="imgs/dropControllerV3_CircuitDiagram_OptocouplerAsASwitch.jpg" alt="dropControllerV3 Circuit Diagram Optocoupler As A Switch" >
 
-As with the mosfets the 4N35s are used as digital switches. When a current is applied between pins 1 and 2, current is allowed to flow between pins 5 and 4. The main difference between the 4N35 and the mosfet is that with the 4N35 the 2 sides of the circuit do not touch (with the mosfet the ground is common). The 4N35 controls a separate circuit without having contact with it.
-
+As with the mosfets the 4N35s are used as digital switches. When a current is applied between pins 1 and 2, current is allowed to flow between pins 5 and 4. The main difference between the 4N35 and the mosfet is that with the 4N35 the 2 sides of the circuit are not electrically connected. With the mosfet the ground is common. The 4N35 controls a separate circuit without having contact with it.
 <br>
 The circuit has 4 triggers; one camera (focus and shutter) and 3 flash. In almost all cases only one flash trigger is used for water drop photography and the additional 2 can be left out if desired.
-
 <br>
 <br>
 
