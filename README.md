@@ -33,6 +33,7 @@ dropControllerV3 features:
 - Compatible with cameras that have a wired shutter remote function
 <br>
 <br>
+
 ## Apps
 dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows app (via USB). Sorry, no IOS version. apple uses please have a look at [dropControllerV4](www.dropcontroller.com)
 
@@ -41,10 +42,12 @@ dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows a
 <img src="imgs/dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 <br>
 <br>
+
 ### Windows App
 <img src="imgs/dropControllerV3_WindowsAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 <br>
 <br>
+
 ## License
 dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/Source-available_software). Free for personal use but not fully open sourced. You are free to use and modify the designs and code as you please but please do not copy and sell.
 <br>
@@ -55,15 +58,10 @@ dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/So
 
 
 [Circuit & Components](CIRCUIT.md)
+[Breadboard](BREADBOARD.md)
+[Proto/perf board](PERFBOARD)
+[PCB](PCB)
 
-
-
-
-## Breadboard
-
-## Proto/perf board
-
-## PCB
 
 ## Case
 ### Simple cover
