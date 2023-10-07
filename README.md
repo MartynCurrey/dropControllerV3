@@ -8,7 +8,7 @@ dropController is the ultimate water drop photography system. Developed by water
 
 ## Contents
 [What is water drop photography?](https://github.com/Martyn-Currey/dropControllerV3/blob/main/README.md#what-is-water-drop-photography) <br>
-[Introduction](https://github.com/Martyn-Currey/dropControllerV3/blob/main/README.md#introduction)
+[Introduction](https://github.com/Martyn-Currey/dropControllerV3/blob/main/README.md#introduction) <br>
 [Circuit & Components](CIRCUIT.md) <br>
 [Breadboard](BREADBOARD.md) <br>
 [Proto/perf board](PERFBOARD.md) <br>
