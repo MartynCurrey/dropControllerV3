@@ -1,6 +1,6 @@
 
 
-## Proto-Board
+# Proto-Board
 If you want to build a more permanent device then proto-board is a good option. Unfortunately I do not have a step by step guide but hopefully, between the circuit diagram and the below photos it should be fairly easy to figure things out.
 
 I tried to lay out the board in a logical fashion which I used as a stepping stone to creating a proper PCB. This included positioning the sockets so that the wires didn’t overlap each other.
@@ -59,7 +59,7 @@ The benefit of using panel mount sockets is you only need to get the hole size c
 <br>
 <br>
 
-### Wire
+## Wire
 For the power lines I used 24awg wire. For the rest of the circuit I used single core wire-wrap wire. Single core wire-wrap wire is ideal for use with protoboarding.
 
 <br>
