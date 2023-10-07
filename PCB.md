@@ -25,7 +25,7 @@ A kit containing all components and parts is available from www.dropcontroller.c
 
 <br>
 
-<img src="imgs/dropControllerV3KitPlus_800.jpg" alt="dropControllerV3 DIY Kit" width="100%" >
+<img src="imgs/dropControllerV3KitPlus_800.jpg" alt="dropControllerV3 DIY Kit" width="50%" >
 
 <br>
 <br>
