@@ -1,3 +1,6 @@
+Precise control?
+
+
 
 # dropControllerV3
 dropController is the ultimate water drop photography system. Developed by water drop enthusiasts for water drop enthusiasts. 
