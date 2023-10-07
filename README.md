@@ -39,14 +39,40 @@ dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows a
 ### Android App
 <img src="imgs/dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 <br>
-
+<br>
 ### Windows App
 <img src="imgs/dropControllerV3_WindowsAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 <br>
-
-
 <br>
 ## License
 dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/Source-available_software). Free for personal use but not fully open sourced. You are free to use and modify the designs and code as you please but please do not copy and sell.
 <br>
 <br>
+<br>
+<br>
+
+## Circuit & Components
+
+
+## Breadboard
+
+## Proto/perf board
+
+## PCB
+
+## Case
+### Simple cover
+### Acrylic case
+
+## Windows App
+
+## Android App
+
+## User manual
+
+
+<br>
+<br>
+<br>
+<br>
+
