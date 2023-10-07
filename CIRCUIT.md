@@ -112,11 +112,12 @@ I recommend HC-06 modules because they are fairly easy to set up, however, a HC-
 
 <img src="imgs/dropControllerV3_CircuitDiagram_BluetoothModule.jpg" alt="dropControllerV3 Circuit Diagram Bluetooth Module" width="50%">
 
-There are many different versions on the HC-06 and I believe all will work with the dropController, as will any Bluetooth Classic (BT 2.1) module that interfaces using UART 8-N-1 at 9600 baud rate.
 The Bluetooth RX pin is not normally 5v tolerant and so I use a voltage divider to reduce the Arduino’s 5v TX pin to 3.3v. We do not need a voltage converter on the other pin as the Arduino will read 3.3v as HIGH (the same as 5v) and so the Bluetooth TX pin can be connected directly to the Arduino RX pin.
 
 Some of the newer module breakout boards (such as the HC01/Wavesen modules) are 5v tolerant and if you have one of these modules there is no need for the voltage divider. If you are not sure leave it in. It will not effect the circuit.
-<br>
+
+There are many different versions of the HC-06 and I believe all will work with the dropController, as will any Bluetooth Classic (BT 2.1) module that interfaces using UART 8-N-1 at 9600 baud rate.
+
 Separate guide for setting up a HC-06 at https://www.dropcontroller.com/setting-up-checking-bluetooth/
 <br>
 <br>
