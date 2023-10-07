@@ -31,8 +31,7 @@ dropControllerV3 features:
 - Auto save drop data
 - Auto save main settings
 - Compatible with cameras that have a wired shutter remote function
-<br>
-<br>
+ 
 If you want more than this take a look at dropControllerV4 (www.dropcontroller.com)
 <br>
 <br>
