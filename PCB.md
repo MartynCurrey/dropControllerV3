@@ -22,5 +22,10 @@ Download [DropControllerV3_PCB1.60_KiCadFiles.zip (27mb)](assets/DropControllerV
 
 ## Parts Kit
 A kit containing all components and parts is available from www.dropcontroller.com
+
+<br>
+
+<img src="imgs/dropControllerV3KitPlus_800.jpg" alt="dropControllerV3 DIY Kit" width="100%" >
+
 <br>
 <br>
