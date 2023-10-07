@@ -5,6 +5,7 @@ The dropControllerV3 circuit is fairly simple and building one should not be tha
 I tried to keep the circuit as simple as possible and have used commonly available parts. For example  4N35s, IRL540Ns (or IRLZ44Ns) mosfets, and the 3.5mm stereo sockets are the same for the camera and flash connections. 
 
 The circuit allows the use of 12v and 24v power input. This means the same circuit can be used with either 12v valves or 24v valves. 
+<br>
 **CAUTION:** Do not mix  valves of different voltages on the same circuit, match he valves to the power supply; 12v power with 12v valves, and 24v power with 24v valves.
 
 <img src="imgs/dropControllerV3_Circuit_4.0_2400.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
@@ -39,8 +40,7 @@ Many of the components (if not all) can be swapped with alternatives. This inclu
 
 <br>
 <br>
-### Power/VCC
-
+### Power In
 The dropController circuit has three voltages; 24v/12v, 8v/9v, and 5v. The 24v/12v powers the valves, the 8/9v powers the Arduino, and the 5v powers the Bluetooth module, the mosfets, and the optocouplers.
 - 24v/12v is the main power in
 - 8/9v is the output voltage from the buck converter and the input for the Arduino
