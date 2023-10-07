@@ -38,7 +38,7 @@ dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows a
 
 
 Android App
-<img src="dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
+<img src="imgs/dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 <br>
 
 
