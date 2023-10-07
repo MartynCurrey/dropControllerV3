@@ -40,7 +40,6 @@ Many of the components (if not all) can be swapped with alternatives. This inclu
 <br>
 <br>
 ## Power In
-<br>
 The dropController circuit has three voltages; 24v/12v, 8v/9v, and 5v. The 24v/12v powers the valves, the 8/9v powers the Arduino, and the 5v powers the Bluetooth module, the mosfets, and the optocouplers.
 - 24v/12v is the main power in
 - 8/9v is the output voltage from the buck converter and the input for the Arduino
@@ -51,6 +50,7 @@ The ON/OFF switch is optional. I generally do not add one.
 <br>
 <br>
 ### DC-DC Step Down Buck Converter
+
 To drop the 12v/24v to 8/9v to power the Arduino I have settled on small DC-DC step down buck converters. I use specific models but any DC-DC converter that accepts 24v+ (ideally 30v+), (mmany are 36v to 48v) input and allows 8v/9v out will be OK. Output from the buck converter goes to the Arduino.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_Power02.jpg" alt="dropControllerV3 Circuit Diagram Power" >
