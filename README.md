@@ -51,6 +51,10 @@ dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/So
 <br>
 <br>
 
+
+
+[Circuit & Components](circuit&components.md)
+
 ## Circuit & Components
 
 
