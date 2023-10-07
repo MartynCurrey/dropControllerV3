@@ -101,13 +101,13 @@ The circuit has 4 triggers; one camera (focus and shutter) and 3 flash. In almos
 <br>
 <br>
 
-### 1N4007 Diode
+## 1N4007 Diode
 The 1N4007 diode is used for polarity protection for when the Arduino is connected to a computer via USB and an external power supply at the same time.
 <img src="imgs/dropControllerV3_CircuitDiagram_Power03.jpg" alt="dropControllerV3 Circuit Diagram diode" >
 <br>
 <br>
 
-### Bluetooth Module
+## Bluetooth Module
 I recommend HC-06 modules because they are fairly easy to set up, however, a HC-05 in slave mode can also be used.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_BluetoothModule.jpg" alt="dropControllerV3 Circuit Diagram Bluetooth Module" width="50%">
