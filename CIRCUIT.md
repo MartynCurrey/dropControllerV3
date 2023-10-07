@@ -16,7 +16,7 @@ The circuit allows the use of 12v and 24v power input. This means the same circu
 <br>
 <br>
 
-### Parts List
+## Parts List
 - 1 x Arduino Nano V3
 - 1 x LM2596s DC to DC step down buck converter (or similar)
 - 1 x HC-06 Bluetooth module (or similar)*
@@ -37,10 +37,10 @@ The circuit allows the use of 12v and 24v power input. This means the same circu
 Many of the components (if not all) can be swapped with alternatives. This includes the mosfets, the optocouplers, the sockets, and even the Arduino and the Bluetooth module.
 
 *A short while ago the Waven HC-06 price shot up and I have now started using HC-02s which are fully compatible and cheaper.
-
 <br>
 <br>
-### Power In
+## Power In
+<br>
 The dropController circuit has three voltages; 24v/12v, 8v/9v, and 5v. The 24v/12v powers the valves, the 8/9v powers the Arduino, and the 5v powers the Bluetooth module, the mosfets, and the optocouplers.
 - 24v/12v is the main power in
 - 8/9v is the output voltage from the buck converter and the input for the Arduino
@@ -71,7 +71,7 @@ With an ambient temperature of about 27°C and using a 24V power source:
 <br>
 <br>
 
-### Valve Control & Mosfets
+## Valve Control & Mosfets
 dropControllerV3 is designed to be used with eithger 12V or 24V valves. 12V and 24V are too high to connect directly to an Arduino and mosfets are used as a middle man.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_mosfetAsASwitch.jpg" alt="dropControllerV3_Circuits Diagram_mosfet As A Switch" >
@@ -96,7 +96,7 @@ The 10K resistor pulls the Gate pin to ground when there is no signal from the A
 <br>
 <br>
 
-### Triggers & 4N35s
+## Triggers & 4N35s
 To isolate the camera and flash guns from the main dropController circuit 4N35 optocouplers are used. These offer some basic protection but are not 100% fool proof. When used with low voltages such as the dropController and modern digital cameras and flash guns they work well but if a large enough voltage is applied to the optocopler is can short and cause damage.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_OptocouplerAsASwitch.jpg" alt="dropControllerV3 Circuit Diagram Optocoupler As A Switch" >
