@@ -31,12 +31,11 @@ dropControllerV3 features:
 - Auto save drop data
 - Auto save main settings
 - Compatible with cameras that have a wired shutter remote function
-- 
 <br>
 <br>
+## Apps
+dropControllerV3 is controlled from an Andoid app (via Bluetooth) or a Windows app (via USB). Sorry, no IOS version. apple uses please have a look at [dropControllerV4](www.dropcontroller.com)
 
-## Control Apps
-dropControllerV3 is controlled using an Andoid app (via Bluetooth) or a Windows app (via USB). Sorry, no IOS version. apples uses please have a look at [dropControllerV4](www.dropcontroller.com)
 
 ANDROID APP IMAGE
 WINDOWS APP IMAGE
