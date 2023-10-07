@@ -54,7 +54,7 @@ The benefit of using panel mount sockets is you only need to get the hole size c
 <img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets.jpg" alt="dropControllerV3 DIY ProtoBoard" >
 <br>
 
-<img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets2.jpg" alt="dropControllerV3 DIY ProtoBoard" >
+<img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets2.jpg" alt="dropControllerV3 DIY ProtoBoard" width="50%" >
 
 <br>
 <br>
@@ -64,11 +64,11 @@ For the power lines I used 24awg wire. For the rest of the circuit I used stripp
 
 <br>
 
-<img src="imgs/dropControllerV3_DIY_ProtoBoard_010_wire.jpg" alt="dropControllerV3 DIY ProtoBoard" >
+<img src="imgs/dropControllerV3_DIY_ProtoBoard_010_wire.jpg" alt="dropControllerV3 DIY ProtoBoard"  width="50%">
 
 <br>
 
-<img src="imgs/dropControllerV3_DIY_ProtoBoard_011_wire2.jpg" alt="dropControllerV3 DIY ProtoBoard" >
+<img src="imgs/dropControllerV3_DIY_ProtoBoard_011_wire2.jpg" alt="dropControllerV3 DIY ProtoBoard" width="50%" >
 
 <br>
 
