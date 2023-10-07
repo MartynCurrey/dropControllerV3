@@ -51,7 +51,7 @@ Rather than use PCB mounted sockets, panel mount sockets can be used.
 The benefit of using panel mount sockets is you only need to get the hole size correct. The position does not need to be 100% accurate. This makes construction a lot easier.
 <br>
 
-<img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets.jpg" alt="dropControllerV3 DIY ProtoBoard" >
+<img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets.jpg" alt="dropControllerV3 DIY ProtoBoard"  width="50%">
 <br>
 
 <img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets2.jpg" alt="dropControllerV3 DIY ProtoBoard" width="50%" >
