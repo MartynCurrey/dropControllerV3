@@ -25,6 +25,7 @@ dropController is the ultimate water drop photography system. Developed by water
 
 ### What is water drop photography?
 Water drop photography is taking pictures of water drop collisions. 
+
 <img src="imgs/dropControllerV3_dropPhotoBanner_001.jpg" alt="dropControllerV3 water drop photographs" width="100%" >
 
 <br>
