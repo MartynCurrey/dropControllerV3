@@ -58,23 +58,14 @@ dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/So
 <br>
 
 
-
 [Circuit & Components](CIRCUIT.md) <br>
 [Breadboard](BREADBOARD.md) <br>
-[Proto/perf board](PERFBOARD) <br>
-[PCB](PCB) <br>
-
-
-
-## Case
-### Simple cover
-### Acrylic case
-
-## Windows App
-
-## Android App
-
-## User manual
+[Proto/perf board](PERFBOARD.md) <br>
+[PCB](PCBmd) <br>
+[Case](CASE.md) <br>
+[Windows App](WINDOWS-APP.md) <br>
+[Android App](ANDROID-APP.md) <br>
+[User Manual](USER-MANUAL.md) <br>
 
 
 <br>
