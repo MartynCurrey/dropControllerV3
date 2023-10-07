@@ -57,13 +57,10 @@ dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/So
 
 
 
-[Circuit & Components](CIRCUIT.md)
-
-[Breadboard](BREADBOARD.md)
-
-[Proto/perf board](PERFBOARD)
-
-[PCB](PCB)
+[Circuit & Components](CIRCUIT.md) <br>
+[Breadboard](BREADBOARD.md) <br>
+[Proto/perf board](PERFBOARD) <br>
+[PCB](PCB) <br>
 
 
 
