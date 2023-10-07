@@ -6,6 +6,23 @@ dropController is the ultimate water drop photography system. Developed by water
 <br>
 <br>
 
+## Contents
+[What is water drop photography?](https://github.com/Martyn-Currey/dropControllerV3/blob/main/README.md#what-is-water-drop-photography) <br>
+[Introduction](https://github.com/Martyn-Currey/dropControllerV3/blob/main/README.md#introduction)
+[Circuit & Components](CIRCUIT.md) <br>
+[Breadboard](BREADBOARD.md) <br>
+[Proto/perf board](PERFBOARD.md) <br>
+[PCB](PCBmd) <br>
+[Case](CASE.md) <br>
+[Windows App](WINDOWS-APP.md) <br>
+[Android App](ANDROID-APP.md) <br>
+[User Manual](USER-MANUAL.md) <br>
+
+<br>
+<br>
+<br>
+<br>
+
 ### What is water drop photography?
 Water drop photography is taking pictures of water drop collisions. 
 <img src="imgs/dropControllerV3_dropPhotoBanner_001.jpg" alt="dropControllerV3 water drop photographs" width="100%" >
@@ -56,19 +73,15 @@ dropControllerV3 is [Source-available software](https://en.wikipedia.org/wiki/So
 <br>
 
 
-## Contents
-[Circuit & Components](CIRCUIT.md) <br>
-[Breadboard](BREADBOARD.md) <br>
-[Proto/perf board](PERFBOARD.md) <br>
-[PCB](PCBmd) <br>
-[Case](CASE.md) <br>
-[Windows App](WINDOWS-APP.md) <br>
-[Android App](ANDROID-APP.md) <br>
-[User Manual](USER-MANUAL.md) <br>
+
 
 
 <br>
 <br>
 <br>
 <br>
+
+
+
+
 
