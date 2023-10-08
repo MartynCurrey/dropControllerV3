@@ -19,4 +19,11 @@ See the Updating the Firmware page for details on how to upload a new firmware.
 
 
 
+# Upload the Firmware
+
+## Arduino IDE
+
+
+## Hex File
+
 
