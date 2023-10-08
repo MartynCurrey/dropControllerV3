@@ -62,11 +62,11 @@ The vcc out from the buck converter goes to the Arduino vin pin. The vin pin can
 ### LM7805/08
 At a push LM7808s can be used to reduce the input voltage to 8v. A LM7808 (and suitable support circuit) will be fine when using a 12v input voltage but will likely get hot when used with 24v input. The cost between using a premade buck converter and the componets required for the LM7808 is basically the same and buck converters are far more efficient and do not create any where near the same amount of heat.
 
-The voltages are within spec of the LM7808 but they get hot when used with 24v and some kind of heat sink is required. I found they became hotter than I was comfortable with and so I do not recommend using them. 
-With an ambient temperature of about 27°C and using a 24V power source:
+Although 24V is within spec of the LM7808, when using 24V the LM7808 will get hot and some kind of heat sink is required. I found the LB 7808s became hotter than I was comfortable with and so I do not recommend using them. 
+In my own experiments, with an ambient temperature of about 27°C and using a 24V power source:
 - no heat sink, the temperature went to around 115°C.
 - small heat sink, temp was around 80°C
-- large heat sink, I managed to get the temperature down to around 60°C. The large heat sink was too big to be practical though.
+- with a large heat sink, I managed to get the temperature down to around 60°C, however, the large heat sink was too big to be practical.
 <br>
 <br>
 
