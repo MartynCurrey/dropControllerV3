@@ -7,7 +7,7 @@ dropController is the ultimate water drop photography system. Developed by water
 <img src="imgs/dropControllerV3_Assembled_1200.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
 
 <img src="imgs/dropControllerV3_setups_1200.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
-Photo 1: dropControllerV3 with a single valve using a lab stand for support. Lab sqirty bottle used as the drop reservoir.
+Photo 1: dropControllerV3 with a single valve using a lab stand for support. Lab sqirty bottle used as the drop reservoir.<br>
 Photo 2: dropControllerV3 with 3 valves. T-slot 2020 frame.
 
 
