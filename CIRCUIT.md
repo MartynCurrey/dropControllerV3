@@ -51,7 +51,7 @@ The ON/OFF switch is optional. I generally do not add one.
 <br>
 
 ### DC-DC Step Down Buck Converter
-To drop the 12v/24v to 8/9v to power the Arduino I have settled on small DC-DC step down buck converters. I use specific models but any DC-DC converter that accepts 24v+ (ideally 30v+), (mmany are 36v to 48v) input and allows 8v/9v out will be OK. Output from the buck converter goes to the Arduino.
+To drop the 12v/24v to 8/9v to power the Arduino I have settled on small DC-DC step down buck converters. I use specific models but any DC-DC converter that accepts 24v+ (ideally 30v+), input and allows 8v/9v out will be OK. Output from the buck converter goes to the Arduino VIN pin.
 
 <img src="imgs/dropControllerV3_CircuitDiagram_Power02.jpg" alt="dropControllerV3 Circuit Diagram Power" >
 
