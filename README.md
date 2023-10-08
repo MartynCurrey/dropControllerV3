@@ -6,6 +6,10 @@ Precise control?
 dropController is the ultimate water drop photography system. Developed by water drop enthusiasts for water drop enthusiasts. 
 <img src="imgs/dropControllerV3_Assembled_1200.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
 
+<img src="imgs/dropControllerV3_setups_1200.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
+
+
+
 <br>
 <br>
 
