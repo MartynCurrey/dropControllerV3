@@ -39,12 +39,12 @@ Many of the components (if not all) can be swapped with alternatives. This inclu
 *A short while ago the Waven HC-06 price shot up and I have now started using HC-02s which are fully compatible and cheaper.
 <br>
 <br>
-## Power In
+## Power
 The dropController circuit has three voltages; 24v/12v, 8v/9v, and 5v. The 24v/12v powers the valves, the 8/9v powers the Arduino, and the 5v powers the Bluetooth module, the mosfets, and the optocouplers.
 - 24v/12v is the main power in
 - 8/9v is the output voltage from the buck converter and the input for the Arduino
 - 5v is the output from the Arduino and input for the Bluetooth module
-- 
+
 <img src="imgs/dropControllerV3_CircuitDiagram_Power.jpg" alt="dropControllerV3 Circuit Diagram Power" width="50%">
 The ON/OFF switch is optional. I generally do not add one.
 <br>
