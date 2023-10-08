@@ -55,8 +55,7 @@ To drop the 12v/24v to 8/9v to power the Arduino I have settled on small DC-DC s
 
 <img src="imgs/dropControllerV3_CircuitDiagram_Power02.jpg" alt="dropControllerV3 Circuit Diagram Power" >
 
-The vcc out from the buck converter goes to the Arduino vin pin. The vin pin can safely accept anywhere from 7v to 12v so although I suggest to set the buck converter to 8v or 9v it is not critical to get it exact. The vin pin on the Arduino connects to an onboard voltage regulator which, to work correctly requires at least 6v and 6v is the lowest you should aim for. A little higher is better.
-Don’t forget the diode which has a voltage drop of around 0.7v so you should have a minimum of 6.7v coming out of the buck converter. I rounded up to 8v and later found nice 9v fixed output buck converters so went up to 9v.
+The vcc out from the buck converter goes to the Arduino vin pin. The vin pin can safely accept anywhere from 7v to 12v so, although I suggest to set the buck converter output to 8v or 9v it is not critical to get it exact. The vin pin on the Arduino connects to an onboard voltage regulator which, to work correctly requires at least 6v.  Don’t forget the diode which has a voltage drop of around 0.7v so you should have a minimum of 6.7v coming out of the buck converter. I rounded up to 8v and later found nice 9v fixed output buck converters so went to 9v.
 <br>
 <br>
 
