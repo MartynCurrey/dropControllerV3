@@ -43,12 +43,12 @@ The prototype includes sockets to attach manual drain switches. These are not in
 <br>
 
 ## Connectors and Sockets
-The RCA sockets and the power jack socket are not proto-board friendly and I had to drill larger holes to accommodate the large pins.
+The RCA sockets and the power jack socket are not proto-board friendly and I had to drill larger holes to accommodate them.
+<br>
 <img src="imgs/dropControllerV3_DIY_ProtoBoard_008_RCA-Sockets.jpg" alt="dropControllerV3 DIY ProtoBoard" >
 <br>
 
-Rather than use PCB mounted sockets, panel mount sockets can be used.
-The benefit of using panel mount sockets is you only need to get the hole size correct. The position does not need to be 100% accurate. This makes construction a lot easier.
+Rather than use PCB mounted sockets, panel mount sockets can be used. The benefit of using panel mount sockets is you only need to get the hole size correct. The position does not need to be 100% accurate. This makes construction a lot easier.
 <br>
 
 <img src="imgs/dropControllerV3_DIY_ProtoBoard_009_PanelMountSockets.jpg" alt="dropControllerV3 DIY ProtoBoard"  width="50%">
