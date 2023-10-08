@@ -21,8 +21,8 @@ Photo 2: dropControllerV3 with 3 valves. T-slot 2020 frame.
 [Circuit & Components](CIRCUIT.md) <br>
 [Breadboard](BREADBOARD.md) <br>
 [Proto/perf board](PERFBOARD.md) <br>
-[PCB](PCBmd) <br>
-[Firmware](FIRMWARE) <br>
+[PCB](PCB.md) <br>
+[Firmware](FIRMWARE.md) <br>
 [Case](CASE.md) <br>
 [Windows App](WINDOWS-APP.md) <br>
 [Android App](ANDROID-APP.md) <br>
