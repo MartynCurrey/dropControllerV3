@@ -1,5 +1,8 @@
 # dropControllerV3 Arduino Sketch & Firmware
 
+ <br>
+ <br>
+  
 ## dropControllerV3 Arduino Sketch
 Here are the Arduiono IDE files. You you will need the Arduino IDE to upload to the controller.
 See the Updating the Firmware page for details on how to upload a new firmware.
@@ -19,12 +22,23 @@ The HEX file is a pre-compiled firmware ready to upload. Includes the bootloader
 The Download includes everything you need to upload the new firmware. The Arduino IDE is not required. See the Updating the Firmware page for details. <br>
 
 
+ <br>
+ <br>
 
 # Upload the Firmware
 
+<br>
+
 ## Arduino IDE
 
+<br>
 
 ## Hex File
 
-
+ <br>
+ <br>
+  <br>
+ <br>
+  <br>
+ <br>
+ 
