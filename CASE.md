@@ -19,6 +19,9 @@ A simple base and cover can be made from 2 pieces of acrylic, Any colour can be 
 <img src="imgs/dropControllerV3_SimpleCover_w1200.jpg" alt="dropControllerV3 water drop photography system"  width="75%" >
 
 
+<img src="imgs/dropControllerV3_SimpleCoverMeasurementsDiagram_1200.jpg" alt="dropControllerV3 water drop photography system"  width="75%" >
+
+
 
 
 
