@@ -24,6 +24,36 @@ A simple base and cover can be made from 2 pieces of acrylic, Any colour can be 
 
 
 
+dropControllerV3_SimpleCover_AutoCADfiles.zip
+
+
+
+## Downloads
+
+The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
+
+[AutoCAD2000 DXF and DWG files](dropControllerV3_SimpleCover_AutoCADfiles.zip) (zip) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br>
@@ -54,10 +84,9 @@ You will also need stands and screws:
  <br>
 <br>
 
-## Downloads
+## Download
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
-
 
 
 [Measurement Diagram](assets/dropControllerV3_AcrylicCase_Measurements.pdf) (PDF) <br>
