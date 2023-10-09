@@ -21,7 +21,7 @@ You will also need stands and screws:
 2 x M3 10mm screw (mounting bracket)
 2 x M3 nut (mounting bracket)
 
-
+ 
 <br>
 <br>
 
