@@ -31,11 +31,14 @@ The files are provided “as is,” with no assurance or guarantee of completene
 [ Measurement diagraml ] ( assets/dropControllerV3_AcrylicCase_Measurements.pdf ) <br>
 
 
-[DXF and DWG files (AutoCad2000)] (123)
+[DXF and DWG files (AutoCad2000)] (123)  <br>
 
 
 
 
+[Windows App](WINDOWS-APP.md) <br>
+[Android App](ANDROID-APP.md) <br>
+[User Manual](USER-MANUAL.md) <br>
 
 
 <br>
