@@ -24,6 +24,15 @@ A simple base and cover can be made from 2 pieces of acrylic, Any colour can be 
 <br>
 <br>
 
+You will also need stands and screws:
+
+8 x M3  6-8mm round top screw <br>
+4 x M3  10mm+6mm hex support<br>
+4 x M3  20mm hex support <br>
+
+<br>
+<br>
+
 ### Downloads
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
