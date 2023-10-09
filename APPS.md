@@ -7,12 +7,14 @@ dropControllerV3 can be controlled from either a Windows app or an Android app.
 
 ## Windows App
 
+<img src="imgs/dropControllerV3_WindowsAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
+
 The Windows program does not need to be installed and is run directly from a folder. The app is writen in Visualbasic Net and requires the .net framework, minimum version 4.0, available from https://dotnet.microsoft.com/en-us/download/dotnet-framework
 <br>
 
 ### Downloads
 
-dropControllerV3 Windows app <br>
+[dropControllerV3 Windows app] (assets/app) <br>
 Source files <br>
 
 
@@ -22,8 +24,11 @@ Source files <br>
 
 ## Android App
 
-<br>
-<br>
+<img src="imgs/dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
+
+
+
+
 
 <br>
 <br>
@@ -31,4 +36,6 @@ Source files <br>
 <br>
 <br>
 
+<br>
+<br>
 
