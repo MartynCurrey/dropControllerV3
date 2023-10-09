@@ -36,7 +36,7 @@ The files are provided “as is,” with no assurance or guarantee of completene
 
 
 
-[Windows App](WINDOWS-APP.md) <br>
+[Windows App](assets/dropControllerV3_AcrylicCase_Measurements.pdf) <br>
 [Android App](ANDROID-APP.md) <br>
 [User Manual](USER-MANUAL.md) <br>
 
