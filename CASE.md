@@ -28,7 +28,7 @@ A simple base and cover can be made from 2 pieces of acrylic, Any colour can be 
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
 
-[AutoCAD2000 DXF and DWG files](dropControllerV3_SimpleCover_AutoCADfiles.zip) (zip) <br>
+[AutoCAD2000 DXF and DWG files](assets/dropControllerV3_SimpleCover_AutoCADfiles.zip) (zip) <br>
 
 
 
