@@ -11,7 +11,7 @@ The dropControllerV3 full case is laser cut from 2mm black acrylic.
 
 You will also need stands and screws:
 
-<img src="imgs/dropControllerV3_AcrylicCase_M3HexStands_w800.jpg" alt="dropControllerV3 water drop photography system"  width="75%" >
+<img src="imgs/dropControllerV3_AcrylicCase_M3HexStands_w800.jpg" alt="dropControllerV3 water drop photography system"  width="50%" >
 
 8 x M3 8-10mm screw
 4 x M3*15+6
@@ -36,7 +36,7 @@ The files are provided “as is,” with no assurance or guarantee of completene
 
 
 
-[Windows App](assets/dropControllerV3_AcrylicCase_Measurements.pdf) <br>
+[Measurement Diagram](assets/dropControllerV3_AcrylicCase_Measurements.pdf) <br>
 [Android App](ANDROID-APP.md) <br>
 [User Manual](USER-MANUAL.md) <br>
 
