@@ -21,14 +21,10 @@ A simple base and cover can be made from 2 pieces of acrylic, Any colour can be 
 
 <img src="imgs/dropControllerV3_SimpleCoverMeasurementsDiagram_1200.jpg" alt="dropControllerV3 water drop photography system"  width="75%" >
 
+<br>
+<br>
 
-
-
-dropControllerV3_SimpleCover_AutoCADfiles.zip
-
-
-
-## Downloads
+### Downloads
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
 
@@ -79,12 +75,11 @@ You will also need stands and screws:
 4 x M3  20mm hex support <br>
 2 x M3  10mm screw (mounting bracket) <br>
 2 x M3  nut (mounting bracket) <br>
- <br>
- 
- <br>
+
+<br>
 <br>
 
-## Download
+### Download
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
 
