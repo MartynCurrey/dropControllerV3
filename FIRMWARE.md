@@ -2,8 +2,10 @@
 
 ## dropControllerV3 Arduino Sketch
 Here are the Arduiono IDE files. You you will need the Arduino IDE to upload to the controller.
-dropControllerV3 Arduino Sketch dropControllerV3_2022_001.
 See the Updating the Firmware page for details on how to upload a new firmware.
+
+[FW dropControllerV3_FW_2306001](assets/dropControllerV3_FW_2306001.zip) (zip) <br>
+
 
  <br>
  
