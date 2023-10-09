@@ -31,8 +31,8 @@ The files are provided “as is,” with no assurance or guarantee of completene
 
 
 
-[Measurement Diagram](assets/dropControllerV3_AcrylicCase_Measurements.pdf) <br>
-[AutoCAD2000 DXF and DWG files](dropControllerV3_AcrylicCase_AutoCAD2000.zip) <br>
+[Measurement Diagram](assets/dropControllerV3_AcrylicCase_Measurements.pdf) (PDF) <br>
+[AutoCAD2000 DXF and DWG files](dropControllerV3_AcrylicCase_AutoCAD2000.zip) (zip) <br>
 
 
 
