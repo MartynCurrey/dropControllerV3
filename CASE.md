@@ -15,11 +15,11 @@ You will also need stands and screws:
 
 <img src="imgs/dropControllerV3_AcrylicCase_M3HexStands_w800.jpg" alt="dropControllerV3 water drop photography system"  width="50%" >
 
-8 x M3 8-10mm screw <br>
-4 x M3*15+6 <br>
-4 x M3*20 <br>
-2 x M3 10mm screw (mounting bracket) <br>
-2 x M3 nut (mounting bracket) <br>
+8 x M3  8-10mm screw <br>
+4 x M3  15+6 <br>
+4 x M3  20 <br>
+2 x M3  10mm screw (mounting bracket) <br>
+2 x M3  nut (mounting bracket) <br>
  <br>
  
  <br>
