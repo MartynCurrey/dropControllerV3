@@ -8,11 +8,9 @@ dropControllerV3 can be controlled for either a Windows app or an Android app.
 
 ## Windows App
 
-The Windows program does not need to be installed and is run directly from a folder. It requires the .net framework, minimum version 4.0, available at Microsoft .net 4.0 download page and will run on Windows XP SP2 and above.
+The Windows program does not need to be installed and is run directly from a folder. The app is writen in Visualbasic Net and requires the .net framework, minimum version 4.0, available from https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
-https://dotnet.microsoft.com/en-us/download/dotnet-framework
-
-Thw app is writen in VisualBasic Net. The source files are available below.
+<br>
 
 ### Downloads
 
