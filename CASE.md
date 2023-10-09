@@ -27,13 +27,23 @@ You will also need stands and screws:
 
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
 
-[Measurements Diagram (PDF)] (dropControllerV3_AcrylicCase_Measurements.pdf)
-
-DXF and DWG files (AutoCad2000)
+[Measurements Diagram (PDF)] (dropControllerV3_AcrylicCase_Measurements.pdf) <br>
 
 
+[DXF and DWG files (AutoCad2000)] (123)
 
 
+
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
 
 
 
