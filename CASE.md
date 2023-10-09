@@ -30,17 +30,10 @@ You will also need stands and screws:
 The files are provided “as is,” with no assurance or guarantee of completeness, accuracy or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability and fitness for a particular purpose. You are advised to review and check all files before using.
 
 
-[ Measurement diagraml ] ( assets/dropControllerV3_AcrylicCase_Measurements.pdf ) <br>
-
-
-[DXF and DWG files (AutoCad2000)] (123)  <br>
-
-
-
 
 [Measurement Diagram](assets/dropControllerV3_AcrylicCase_Measurements.pdf) <br>
-[Android App](ANDROID-APP.md) <br>
-[User Manual](USER-MANUAL.md) <br>
+[AutoCAD2000 DXF and DWG files](dropControllerV3_AcrylicCase_AutoCAD2000.zip) <br>
+
 
 
 <br>
