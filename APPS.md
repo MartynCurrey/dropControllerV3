@@ -15,15 +15,10 @@ The Windows program does not need to be installed and is run directly from a fol
 ### Downloads
 
 
-[dropControllerV3 Windows App](assets/dropControllerV3_2023.1.1.4.zip) <br>
+[dropControllerV3 Windows App](assets/dropControllerV3_2023.1.1.4.zip) (eve file inside a zip archive)<br>
+[Sorce Files](dropControllerV3_2023.1.1.4.zip) (zip) <br>
 
-[Sorce Files](dropControllerV3_2023.1.1.4.zip) <br>
-
-
-[dropControllerV3 Windows app] (assets/app) <br>
-Source files <br>
-
-
+<br>
 <br>
 
 
