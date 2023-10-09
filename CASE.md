@@ -3,9 +3,9 @@
 # dropControllerV3 Case
 
 <br>
-There are 2 types of cover / case
-1 - A simple cover & base
-2 - Fully enclosed case
+There are 2 types of cover / case <br>
+1 - A simple cover & base <br>
+2 - Fully enclosed case <br>
 
 
 <br>
