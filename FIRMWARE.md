@@ -50,35 +50,42 @@ Download the latest sketch. The download will be a zip archive. Unpack the archi
 Attach the dropController to your computer with the appropriate USB cable.<br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_002.jpg" alt="dropControllerV3 water drop photography system"  >
 
+
 Open the Arduino IDE. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_003.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
-Select the dropControllerV3’s COM port. <br>
+Select the dropControllerV3’s COM port. Mine ius COM16, yours will be different.<br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_004.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
+Load the sketch in to the IDE. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_005.jpg" alt="dropControllerV3 water drop photography system"  >
 
+
+Click the upload button. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_006.jpg" alt="dropControllerV3 water drop photography system"  >
 
+The IDE will compile and upload the sketch. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_007.jpg" alt="dropControllerV3 water drop photography system"  >
 
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_008.jpg" alt="dropControllerV3 water drop photography system"  >
 
+
+As the new firmware is being uploaded the UART TX and RX LEDs will flash quickly.
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_009.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
-
-
-
-
-
-
-
-
 <br>
 <br>
+
+
+
+
+
+
+
+
 
 ## Hex File
 
