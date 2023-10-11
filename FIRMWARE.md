@@ -42,6 +42,7 @@ If you are not familiar with the Arduino IDE, or you simply do not want to insta
 If you are familiar with Arduino then the dropControllerV3 firmware can be updated through the Arduino IDE. Simply treat the dropControllerV3 as an Arduino, connect to your computer, open the Arduino IDE, select the correct COM port, load the sketch, and click the upload button.
 
 Download the latest sketch. The download will be a zip archive. Unpack the archive and put the sketch folder somewhere convenient. Mine is on the desktop.
+Note: this example uses an older version. The process is the same though.
 
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_001.jpg" alt="dropControllerV3 water drop photography system"  >
 
