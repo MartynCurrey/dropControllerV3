@@ -67,11 +67,25 @@ The Xloader screen should appear. Click the button with the 3 dots to load the d
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_006.jpg" alt="dropControllerV3 water drop photography system"  > <br>
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_007.jpg" alt="dropControllerV3 water drop photography system"  >
 
-
-
  <br>
   <br>
- <br>
-  <br>
- <br>
+Next, select the type of Arduino you have. If you purchased either the dropControllerV3 or the dropControllerV3 kit then the Arduino is an “Duemilanove/Nano (ATmega328);m328p; stk500;57600;”. Make sure you select the m328p option.
+Select the dropController COM port. In my case it is COM15. Yours will be different.
+
+<br>
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_008.jpg" alt="dropControllerV3 water drop photography system"  >
+<br>
+
+While the new firmware is uploading the red and blue LEDS on the Arduino should flash quickly.
+<br>
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_009.jpg" alt="dropControllerV3 water drop photography system"  >
+<br>
+
+After the upload is complete the yellow LED on the dropController should blink slowly showing the dropController is on but not connected to the app.
+
+ 
+<br>
+<br>
+<br>
+<br>
  
