@@ -40,6 +40,41 @@ If you are not familiar with the Arduino IDE, or you simply do not want to insta
 
 
 
+
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_001.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_002.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_003.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_004.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_005.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_006.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_007.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_008.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_009.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 
