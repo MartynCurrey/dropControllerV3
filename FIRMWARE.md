@@ -42,6 +42,7 @@ If you are not familiar with the Arduino IDE, or you simply do not want to insta
 
 <br>
 <br>
+
 ## Hex File
 
 Download the HEX file. The download is a zip archive. Unpack it and put the folder somewhere convenient. Mine is on the desktop. Everything you need to update the dropController firmware is in the download.
