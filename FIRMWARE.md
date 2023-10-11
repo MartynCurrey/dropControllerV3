@@ -50,9 +50,19 @@ Inside the folder is the dropController HEX file, XLoader, and avrdude. We will 
 
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_001.jpg" alt="dropControllerV3 water drop photography system"  >
 
+ <br>
+Attach the dropController to your computer with the appropriate USB cable. <br>
 
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_002.jpg" alt="dropControllerV3 water drop photography system"  >
 
  <br>
+After the BEED/BONG, double click the XLoader program to run it. 
+
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_003.jpg" alt="dropControllerV3 water drop photography system"  >
+
+
+
+
  <br>
   <br>
  <br>
