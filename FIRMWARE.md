@@ -48,7 +48,7 @@ Download the HEX file. The download is a zip archive. Unpack it and put the fold
 
 Inside the folder is the dropController HEX file, XLoader, and avrdude. We will use XLoader to upload the HEX file. XLoader does not need to be installed and it is run from the folder. 
 
-<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_001.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_001.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
 
