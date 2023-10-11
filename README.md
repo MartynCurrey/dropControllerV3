@@ -1,5 +1,3 @@
-Precise control?
-
 
 
 # dropControllerV3
