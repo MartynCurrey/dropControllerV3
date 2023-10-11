@@ -56,9 +56,18 @@ Attach the dropController to your computer with the appropriate USB cable. <br>
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_002.jpg" alt="dropControllerV3 water drop photography system"  >
 
  <br>
-After the BEED/BONG, double click the XLoader program to run it. 
+After the BEEP/BONG, double click the XLoader program to run it. 
 
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_003.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<br>
+The Xloader screen should appear
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_004.jpg" alt="dropControllerV3 water drop photography system"  >
+
+<br>
+Click the button with the 3 dots to load the dropControllerV3 firmware. Since the firmware is inside the same folder as XLoader you should see the HEX file straight away
+
+<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_005.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
 
