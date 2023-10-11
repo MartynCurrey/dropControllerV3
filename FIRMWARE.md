@@ -47,7 +47,6 @@ Note: this example uses an older version. The process is the same though.
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_001.jpg" alt="dropControllerV3 water drop photography system"  >
 
 <br>
-<br>
 Attach the dropController to your computer with the appropriate USB cable.<br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_002.jpg" alt="dropControllerV3 water drop photography system"  >
 
