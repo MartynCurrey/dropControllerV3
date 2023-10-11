@@ -25,10 +25,7 @@ Photo 2: dropControllerV3 with 3 valves. T-slot 2020 frame.
 [Firmware](FIRMWARE.md) <br>
 [Case](CASE.md) <br>
 [Apps](APPS.md) <br>
-[User Manual](USER-MANUAL.md) <br>
-
-Basic Set up
-First drops
+[User Guides](https://www.dropcontroller.com/dropcontrollerv3-user-guide/) <br>
 
 <br>
 <br>
