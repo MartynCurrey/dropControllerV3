@@ -22,8 +22,9 @@ The HEX file is a pre-compiled firmware ready to upload. Includes the bootloader
 The Download includes everything you need to upload the new firmware. The Arduino IDE is not required. See the Updating the Firmware page for details. <br>
 
 
- <br>
- <br>
+<br>
+<br>
+<br>
 
 # Upload the Firmware
 
@@ -38,21 +39,22 @@ If you are not familiar with the Arduino IDE, or you simply do not want to insta
 
 ## Arduino IDE
 
+If you are familiar with Arduino then the dropControllerV3 firmware can be updated through the Arduino IDE. Simply treat the dropControllerV3 as an Arduino, connect to your computer, open the Arduino IDE, select the correct COM port, load the sketch, and click the upload button.
 
-
-
+Download the latest sketch. The download will be a zip archive. Unpack the archive and put the sketch folder somewhere convenient. Mine is on the desktop.
 
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_001.jpg" alt="dropControllerV3 water drop photography system"  >
 
-
-
+<br>
+<br>
+Attach the dropController to your computer with the appropriate USB cable.<br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_002.jpg" alt="dropControllerV3 water drop photography system"  >
 
-
+Open the Arduino IDE. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_003.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
-
+Select the dropControllerV3’s COM port. <br>
 <img src="imgs/fw-upload/dropControllerV3_UpdateFirmware_ArduinoIDE_004.jpg" alt="dropControllerV3 water drop photography system"  >
 
 
