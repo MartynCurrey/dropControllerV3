@@ -26,6 +26,21 @@ The Windows program does not need to be installed and is run directly from a fol
 
 <img src="imgs/dropControllerV3_AndroidAppBanner_1200.jpg" alt="dropControllerV3 Android App screen shots" width="100%" >
 
+The Android App is create using MIT App Inventor 2. The apk file and also the aia file are avail;able below.
+
+The lastest app is not yet available on Google Play Store, for now, you will need to side load the app on to your device.
+
+
+[dropControllerV3 Android App version 2023_001_001](assets/dropController_2023_001_001.apk) (apk file)<br>
+[dropControllerV3 Android App version 2023_001_001 aia file](assets/dropController_2023_001_001.aia) <br>
+
+<br>
+<br>
+
+
+
+
+
 
 
 
