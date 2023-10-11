@@ -62,13 +62,7 @@ After the BEEP/BONG, double click the XLoader program to run it. <br>
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_003.jpg" alt="dropControllerV3 water drop photography system"  >
 
 <br>
-The Xloader screen should appear <br>
-
-<img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_004.jpg" alt="dropControllerV3 water drop photography system"  >
-
-
-<br>
-Click the button with the 3 dots to load the dropControllerV3 firmware. Since the firmware is inside the same folder as XLoader you should see the HEX file straight away. <br>
+The Xloader screen should appear. Click the button with the 3 dots to load the dropControllerV3 firmware. Since the firmware is inside the same folder as XLoader you should see the HEX file straight away. <br>
 
 <img src="imgs/fw-upload/dropControllerV3_UploadHEX-file_006.jpg" alt="dropControllerV3 water drop photography system"  >
  <br>
