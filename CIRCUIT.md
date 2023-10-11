@@ -36,7 +36,7 @@ The circuit allows the use of 12v and 24v power input. This means the same circu
 
 Many of the components (if not all) can be swapped with alternatives. This includes the mosfets, the optocouplers, the sockets, and even the Arduino and the Bluetooth module.
 
-*A short while ago the Waven HC-06 price shot up and I have now started using HC-02s which are fully compatible and cheaper.
+*During the chip shortage the price of the official Waven HC-06 shot up and, unfortunatley, never really came back down and I have since started using HC-02s which are fully compatible and cheaper. No-name HC-06s should also be OK.
 <br>
 <br>
 ## Power
